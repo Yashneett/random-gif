@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../TURBOC3/BIN/PROJECT"
+		},
+		{
+			"path": "../Java"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"REFLEC.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "PROJECT",
+		"powershell.cwd": "c:\\TURBOC3\\BIN\\PROJECT"
+	}
+}
